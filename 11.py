@@ -4,6 +4,7 @@
 # @FileName: 11.py
 # @Software: PyCharm
 
-massage1 = 'HELLO'
-massage2 = 'PYTHON'
-print(massage2 + massage1)
+
+new_list = [1, 2, 3, 4, 5, 6, 7]
+print(new_list[0:6])
+print(new_list[0:6:2])
